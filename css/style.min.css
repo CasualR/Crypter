@@ -1368,7 +1368,7 @@ body._touch .header_notifications_container._active .header_notifications_sub {
   padding: 0px 8px 0px 16px;
 }
 .select_header:hover .select_icon {
-  background: #fff;
+  background: #000;
 }
 
 .select_current {
